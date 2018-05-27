@@ -1,6 +1,6 @@
 # Powershell Mailer Alert
 
-Short script for send an email when a your host lose the ping from a remote host.
+Short script for send an email when your host loose the ping from a remote host.
 
 ## Getting Started
 
@@ -24,6 +24,6 @@ Configure ##### SMTP Configuration ###### with your parameters of SMTP Server, i
 
 ## Authors
 
-* **Víctor Gz** - *https://sysadm.es* - [@VictorGza](https://gitlab.com/VictorGza)
+* **VGzsysadm** - *https://sysadm.es* - [@VGzsysadm](https://github.com/VGzsysadm)
 
 
